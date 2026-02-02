@@ -1,6 +1,6 @@
 # Jairo Daniel Mendoza Torres
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7&size=26&center=true&vCenter=true&width=1000&lines=System+Engineer+%7C+Rust+Developer+%7C+AI+Researcher;Creator+of+LumaDB+%7C+LangChain+Integration;NetSuite+Auditor+%7C+ComfyUI+Node+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7&size=26&center=true&vCenter=true&width=1000&lines=System+Engineer+%7C+Python+Developer+%7C+AI+Researcher;Creator+of+Langchain-Luma+%7C+LangChain+Integration;NetSuite+Auditor+%7C+ComfyUI+CustomNode+Developer)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-Core_Dev-000000?style=flat&logo=rust&logoColor=white" />
