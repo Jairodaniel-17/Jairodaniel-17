@@ -25,7 +25,7 @@ Mi enfoque técnico se divide en tres pilares:
 ## Core Technologies & Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,ts,js,c&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=rust,python,ts,js,java&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,linux,git&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,flask,bash&theme=dark" />
 </div>
@@ -56,13 +56,7 @@ Desarrollo de nodos personalizados en Python para extender la lógica de **Comfy
 * Integración de APIs externas directamente en el flujo de generación de imágenes.
 
 ---
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jairodaniel-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=02D9F7&icon_color=02D9F7&text_color=9CA3AF" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairodaniel-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=02D9F7&icon_color=02D9F7&text_color=9CA3AF" height="160" />
-</div>
+ 
 
 <br/>
 
